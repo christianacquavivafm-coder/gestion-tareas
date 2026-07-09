@@ -1,3 +1,6 @@
+const prompt = require('prompt-sync')();
+const alert = (mensaje) => console.log(mensaje);
+
 const tareas = [];
 const completadas = [];
 

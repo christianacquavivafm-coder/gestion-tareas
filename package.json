@@ -1,0 +1,17 @@
+{
+  "name": "gestion-de-tareas",
+  "version": "1.0.0",
+  "description": "Commit inicial del Gestion de Tareas - Teaching Developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main-junior.js"
+  },
+  "keywords": [],
+  "author": "Christian Acquaviva",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
